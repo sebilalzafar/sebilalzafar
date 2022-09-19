@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bilal Zafar</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/w7ZyuGYNpRQ](https://twilio-cms-prod.s3.amazonaws.com/original_images/header.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebilalzafar&label=Profile%20views&color=0e75b6&style=flat" alt="sebilalzafar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebilalzafar" alt="sebilalzafar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bilalzafar000" target="blank"><img src="https://img.shields.io/twitter/follow/bilalzafar000?logo=twitter&style=for-the-badge" alt="bilalzafar000" /></a> </p>
+
 
 - 🔭 I’m currently working on **Python**
 
@@ -18,6 +17,14 @@
 - 📫 How to reach me **sebilalzafar@gmail.com**
 
 - ⚡ Fun fact **I think I am so Funny.**
+
+<div align="center">  
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=sebilalzafar&margin-w=15&margin-h=15" />
+
+</div>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,3 +42,34 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebilalzafar&show_icons=true&locale=en" alt="sebilalzafar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebilalzafar&" alt="sebilalzafar" /></p>
+
+
+## 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <th><h1>Score</h1></th>
+    <th><h1>Languages</h1></th>
+  </tr>
+  <tr>
+    <td>
+<a href="https://github.com/sebilalzafar/sebilalzafar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebilalzafar&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt=" Bilal GitHub Stats" />
+</a></td>
+    <td>
+   
+
+
+  <a href="https://github.com/sebilalzafar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebilalzafar&theme=highcontrast" />
+</a>
+</td>
+  </tr>
+  </table>
+
+
+
+
+<a href="[http://www.github.com/hicodersofficial](https://github.com/sebilalzafar?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=sebilalzafar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=#00ccff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
