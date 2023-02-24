@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django , Django Channels**
 
-- 👨‍💻 All of my projects are available at [https://bilalzafaritz.web.app/](https://bilalzafaritz.web.app/)
+- 👨‍💻 All of my projects are available at [[https://bilalzafaritz.web.app/](https://sebilalzafar.github.io/portfolio/)]([https://bilalzafaritz.web.app/](https://sebilalzafar.github.io/portfolio/))
 
 - 💬 Ask me about **Python , Djnago**
 
